@@ -1,0 +1,9 @@
+{
+  "name": "@jume-labs/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for @jume-labs packages",
+  "main": "index.json",
+  "keywords": [],
+  "author": "Codescapade",
+  "license": "MIT"
+}
