@@ -1,9 +1,12 @@
 {
   "name": "@jume-labs/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier config for @jume-labs packages",
   "main": "index.json",
   "keywords": [],
   "author": "Codescapade",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "3.x"
+  }
 }
